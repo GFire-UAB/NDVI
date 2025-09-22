@@ -6,7 +6,9 @@ If you use this algorithm in your research, please cite it as:
 
 > Sánchez, P., González, I., Carrillo, C., Cortés, A., Suppi, R. (2025). Remote Sensing AI for Crop Planting in Wildfire Fuel Mapping. In: Lees, M.H., et al. Computational Science – ICCS 2025. ICCS 2025. Lecture Notes in Computer Science, vol 15906. Springer, Cham. https://doi.org/10.1007/978-3-031-97635-3_8
 
-This code was developed as part of the **SALUS (CPP2021-008762)** framework.
+This work is part of the project **CPP2021-008762** and has been financed by MCIN/AEI/10.13039/501100011033 and the European Union *NextGenerationEU*/PRTR.
+
+![Project logos](/media/logo.jpg)
 
 ---
 
