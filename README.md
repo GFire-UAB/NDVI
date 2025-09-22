@@ -27,9 +27,8 @@ Vegetation indices used include:
 
 The training data and model training are **not included**. A pre-trained model is provided, along with an example showing how to update croplands for a wildfire event in Nalec, Catalonia (Spain) in 2019.
 
-<img src="media/nalec_crops.png" alt="Croplands and 2019 Nalec wildfire" width="300"/>
+<img src="media/nalec_crops.png" alt="Croplands and 2019 Nalec wildfire" width="500"/>
 
-<p align="center"><em>Croplands present during the 2019 Nalec wildfire.</em></p>
 
 
 ---
