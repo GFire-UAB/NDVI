@@ -12,8 +12,6 @@ model = "../data/model"
 raw = "../data/raw"
 output = "../output"
 # ---------------------------------------------------------------------
-# Input data
-# ---------------------------------------------------------------------
 # Compute indexes ---
 process_indices(base_dir=raw, date_str=date, output_dir=processed, region=region)
 
