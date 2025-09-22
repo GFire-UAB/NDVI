@@ -92,4 +92,6 @@ Updates each cropland in the fuel map according to predicted status:
 ## Output
 
 The output is a **GeoTIFF fuel map** with updated cropland statuses.
+The following map shows the wildfire and the croplands, with AI predictions indicating which fields are planted and which are unplanted.
+<img src="media/crops_output.png" alt="AI predictions" width="500"/>
 
