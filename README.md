@@ -8,7 +8,8 @@ If you use this algorithm in your research, please cite it as:
 
 This work is part of the project **CPP2021-008762** and has been financed by MCIN/AEI/10.13039/501100011033 and the European Union *NextGenerationEU*/PRTR.
 
-![Project logos](/media/logo.jpg)
+<img src="/media/logo.jpg" alt="Project logos" width="500"/>
+
 
 ---
 
